@@ -3,8 +3,8 @@
 - 📖Completed homework_1
 - 📖Completed homework_2
 # 📚Tasks:
-SQL HomeWork 1
-SQL HomeWork 2
+- SQL HomeWork 1
+- SQL HomeWork 2
 
 # SQL HomeWork 1
 Подключится к 
